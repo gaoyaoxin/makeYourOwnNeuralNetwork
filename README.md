@@ -8,3 +8,5 @@ P110-113|2.4.5 查询网络|2.4.5.query.py
 P113-115|2.4.6 迄今为止的代码|2.4.6.codeSoFar.py
 P115-118|2.4.7 训练网络|2.4.7.training.py
 P118-121|2.4.8 完整的神经网络代码|2.4.8.fullCode.py
+P121-128|2.5 手写数字的数据集 MNIST|2.5.loadMNIST.ipynb
+P128-136|2.5.1 准备 MNIST 训练数据|2.5.1.prepareMNISTData.py
